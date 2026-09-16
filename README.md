@@ -58,4 +58,4 @@ I created this project to practice Java programming and understand how concepts 
 
 ## 👩‍💻 Author
 
-**Kolimi Shaik Sarah**
+**Kolimi Sarah**
